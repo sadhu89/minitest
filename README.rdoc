@@ -8,7 +8,7 @@ emacs:: https://github.com/arthurnn/minitest-emacs
 
 == DESCRIPTION:
 
-minitest provides a complete suite of testing facilities supporting
+Test.minitest provides a complete suite of testing facilities supporting
 TDD, BDD, mocking, and benchmarking.
 
     "I had a class with Jim Weirich on testing last week and we were
